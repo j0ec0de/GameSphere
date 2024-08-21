@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-color: #f5f5f5;
+}
+.title{
+    font-size: 20px;
+}
+container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aqua;
+    height: 50vh;
+    width: 100vw;
+}
+.items{
+    height: 98%;
+    width: 25%;
+    background-color: orangered;
+    outline: 1px solid #000;
+}
